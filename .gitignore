@@ -1,3 +1,6 @@
+# Word and PowerPoint files
+*.docx
+*.pptx
 # Compiled class file
 *.class
 
