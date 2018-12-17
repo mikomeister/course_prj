@@ -1,0 +1,13 @@
+Internet
+1 Unlim50 80
+2 Unlim100 110
+3 Extra 160
+
+InternetAndTV
+1 HD100 100
+2 ExtraHD 260
+
+TV
+1 Digital 130
+2 Interactive 90
+
